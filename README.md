@@ -32,4 +32,4 @@ SASS, deeper client-side JavaScript, and always sharpening clean-code & best pra
 ---
 
 ### 📫 Contact
-🔗 GitHub: [@houssin-99](https://github.com/houssin-99) &nbsp;·&nbsp; 💼 LinkedIn: [your-link] &nbsp;·&nbsp; ✉️ houssinsyr@gmail.com
+🔗 GitHub: [@houssin-99](https://github.com/houssin-99) &nbsp;·&nbsp; 💼 LinkedIn: (https://www.linkedin.com/in/housen-al-ghafra-dev/) &nbsp;·&nbsp; ✉️ houssinsyr@gmail.com
